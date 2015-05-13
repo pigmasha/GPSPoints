@@ -1,0 +1,47 @@
+"OK" = "OK";
+
+"Ask_Later" = "Not now";
+"Ask_Acc" = "Allow";
+"Ask_Sett" = "Settings";
+
+"V_Loc" = "Location: %@";
+"V_Denied" = "GPSPoints needs access to to your current position. You can turn it on here: Settings > Privacy > Location";
+"V_Denied2" = "GPSPoints needs access to to your current position. You can turn it on in Settings";
+"V_Fmt1" = "%.0f m";
+"V_Fmt2" = "%.2f km";
+"V_Go" = "Go!";
+"V_Edit" = "Edit";
+"V_Del" = "Delete";
+"V_Create" = "Create point";
+
+"P_Title" = "Points";
+"P_My" = "My points";
+"P_No" = "No points";
+"P_New" = "New Point";
+"P_Fmt" = "Format";
+"P_About" = "About";
+"P_Date" = "Date";
+"P_Ver" = "Version";
+"P_Name" = "Name";
+"P_List" = "Points as list";
+"P_Type" = "Map Type";
+"P_Type1" = "Default";
+"P_Type2" = "Satellite";
+"P_Type3" = "Hybrid";
+"P_Rotate" = "Rotate map";
+
+"F_Title" = "Coord. format";
+"F_1" = "D.DDD°";
+"F_2" = "D°M.MMM'";
+"F_3" = "D°MM'SS''";
+
+"N_Title" = "New Point";
+"N_Title2" = "Edit Point";
+"N_Holder" = "Point Name";
+"N_Footer" = "Curr. location: %@";
+"N_Name" = "Point";
+"N_Ex" = "Point with this coordinates already exists!";
+"N_Edit" = "Edit";
+"N_Del" = "Delete";
+
+"L_Title" = "Points List";
